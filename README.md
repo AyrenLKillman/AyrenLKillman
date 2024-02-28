@@ -1,7 +1,7 @@
 ### Hi there 👋, AyrenKillman
 #### Coding & Programming
+![Coding & Programming](https://github.com/AyrenLKillman/AyrenLKillman/blob/main/Banner.png?raw=true)
 
-[img src="www.canva.com/design/DAF-F3tihyk/wy54ZFBjT5URZg5yBPC7JQ/view?embed"]
 I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career % Technology Center, learning more about Coding & Programming.
 
 Skills: JS / HTML / CSS
