@@ -3,7 +3,9 @@
 
 
 # Hi there 👋, I'm AyrenKillman
-I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career % Technology Center, learning more about Coding & Programming.
+I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career & Technology Center, learning more about Coding & Programming.
+
+
 ## Coding & Programming
 Skills💻: JS / HTML / CSS
 
