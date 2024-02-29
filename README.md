@@ -3,8 +3,7 @@
 
 
 # Hi there 👋, I'm Ayren Killman
-I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career & Technology Center, learning more about Coding & Programming. Im currently only a Font-end Programmer, though I am eager to learn how to do the Back-end. 
-
+I am Ayren Killman. I'm from the United States. I'm a Student at the Cape Girardeau Career & Technology Center, learning more about Coding & Programming. I'm currently only a Front-end Programmer, though I am eager to learn how to do the Back-end.
 
 ## Coding & Programming
 Skills💻: JS / HTML / CSS
