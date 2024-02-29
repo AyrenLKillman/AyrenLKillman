@@ -2,8 +2,8 @@
 ![Coding &Programming](https://github.com/AyrenLKillman/AyrenLKillman/blob/main/AYREN.png?raw=true)
 
 
-# Hi there 👋, I'm AyrenKillman
-I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career & Technology Center, learning more about Coding & Programming.
+# Hi there 👋, I'm Ayren Killman
+I am Ayren Killman, I am from the United States, and I am currently a Student in the Cape Girardeau Career & Technology Center, learning more about Coding & Programming. Im currently only a Font-end Programmer, though I am eager to learn how to do the Back-end. 
 
 
 ## Coding & Programming
